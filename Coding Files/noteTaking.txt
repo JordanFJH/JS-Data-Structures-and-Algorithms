@@ -3,3 +3,5 @@ Big O is a way to mathematically figure which coding way is better
 Time complexity is measured in the number of operations, not time
 
 O(n) is always a straight line, it is proportional
+
+bigocheatsheet.com
