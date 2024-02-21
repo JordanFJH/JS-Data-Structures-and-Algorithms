@@ -9,4 +9,11 @@ function logItems(n) {
     }
 }
 
-logItems(3)
+// logItems(3)
+
+
+// O(1) - A Constant
+
+function addItems(n) {
+    return n + n
+}
